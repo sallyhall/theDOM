@@ -1,0 +1,23 @@
+.btn, .operator, #answer-box {
+  width: 8rem;
+  height: 8rem;
+  line-height: 8rem;
+  background-color: #64B255;
+  color: white;
+  border: 1px solid #92C989;
+  display: inline-block;
+  font-size: 4rem;
+  text-align: center;
+  vertical-align: top; }
+
+.operator {
+  background-color: #83C178;
+  color: #4F7447; }
+
+#answer-box {
+  width: 24.25rem;
+  content: ''; }
+
+.row {
+  font-size: 0;
+  display: block; }

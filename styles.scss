@@ -1,0 +1,32 @@
+$button-size: 8rem;
+$border-size: .1rem;
+
+.btn{
+  width:$button-size;
+  height:$button-size;
+  line-height: $button-size;
+  background-color: #64B255;
+  color:white;
+  border:1px solid #92C989;
+  display: inline-block;
+  font-size: $button-size/2;
+  text-align: center;
+  vertical-align: top;
+}
+
+.operator{
+  @extend .btn;
+  background-color: #83C178;
+  color:#4F7447;
+}
+
+#answer-box{
+  @extend .btn;
+  width:$button-size*3 + $border-size*2.5;
+  content: '';
+}
+
+.row{
+  font-size: 0;
+  display: block;
+}
