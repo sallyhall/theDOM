@@ -1,12 +1,12 @@
 .btn, .operator, #answer-box {
-  width: 8rem;
-  height: 8rem;
-  line-height: 8rem;
+  width: 9rem;
+  height: 9rem;
+  line-height: 9rem;
   background-color: #64B255;
   color: white;
   border: 1px solid #92C989;
   display: inline-block;
-  font-size: 4rem;
+  font-size: 4.5rem;
   text-align: center;
   vertical-align: top; }
 
@@ -15,7 +15,7 @@
   color: #4F7447; }
 
 #answer-box {
-  width: 24.25rem;
+  width: 27.25rem;
   content: ''; }
 
 .row {

@@ -17,6 +17,7 @@ addButton.addEventListener('click', function() {
   input1.value = '';
   input2.value = '';
 });
+
 subtractButton.addEventListener('click', function() {
   var num1 = Number(input1.value);
   var num2 = Number(input2.value);
