@@ -1,6 +1,7 @@
 $button-size: 9rem;
 $border-size: .1rem;
 
+
 .btn{
   width:$button-size;
   height:$button-size;
@@ -29,4 +30,22 @@ $border-size: .1rem;
 .row{
   font-size: 0;
   display: block;
+}
+
+@media (max-width: 600px) {
+  $button-size: 4rem;
+  $border-size: .1rem;
+
+
+  .btn{
+    width:$button-size;
+    height:$button-size;
+    line-height: $button-size;
+    font-size: $button-size/2;
+  }
+
+
+  #answer-box{
+    width:$button-size*3 + $border-size*2.5;
+  }
 }

@@ -21,3 +21,12 @@
 .row {
   font-size: 0;
   display: block; }
+
+@media (max-width: 600px) {
+  .btn, .operator, #answer-box {
+    width: 4rem;
+    height: 4rem;
+    line-height: 4rem;
+    font-size: 2rem; }
+  #answer-box {
+    width: 12.25rem; } }
