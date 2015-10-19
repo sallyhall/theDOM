@@ -1,8 +1,3 @@
-# 06/03/15
-
-___This homework is due by 8am, on 06/04/2015___
-
-
 ## Description
 This exercise will help you understand how to use JavaScript functions as well as to start interacting with the DOM.
 
