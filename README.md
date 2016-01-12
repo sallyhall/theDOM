@@ -1,3 +1,8 @@
+#Bonus Assignment
+Additional assignment to practice interacting with the DOM. (This is what happens when you tell your instructor you finished the weekend homework on Thursday).
+
+See it live at http://sallykingston.me/theDOM/.
+
 ## Description
 This exercise will help you understand how to use JavaScript functions as well as to start interacting with the DOM.
 
